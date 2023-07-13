@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm student Wony.
+Glad to meet you.
+Have a good time~
 <!--
 **kangseungwon0529/kangseungwon0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
